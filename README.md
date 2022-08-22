@@ -10,7 +10,7 @@
 - [Papers](#Papers)
   - Conferences
   - Journals
-- [Tools & Frameworks](#Tools_&_Frameworks)
+- [Tools&Frameworks](#Tools&Frameworks)
 - [Datasets](#Datasets)
 
 
@@ -51,7 +51,7 @@ High Recall Retrieval (HRR)
 - *2022/08/22 -  create repo and basic structure*
 
 
-# Tools & Frameworks
+# Tools&Frameworks
 
 
 
